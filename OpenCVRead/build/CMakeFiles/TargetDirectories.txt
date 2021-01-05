@@ -1,0 +1,3 @@
+/Users/boyangzhang/Documents/CodeInterview/C++/OpenCVChapter2/OpenCVChapter2/build/CMakeFiles/rebuild_cache.dir
+/Users/boyangzhang/Documents/CodeInterview/C++/OpenCVChapter2/OpenCVChapter2/build/CMakeFiles/edit_cache.dir
+/Users/boyangzhang/Documents/CodeInterview/C++/OpenCVChapter2/OpenCVChapter2/build/CMakeFiles/sample.dir
